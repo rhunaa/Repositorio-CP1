@@ -9,3 +9,4 @@ Deve ser aberto um Pull Request para cada modificação, com aprovação de um d
 - Legumes
 - Sorvete
 - Abacate
+- Melancia
