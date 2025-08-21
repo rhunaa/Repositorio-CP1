@@ -8,4 +8,7 @@ Deve ser aberto um Pull Request para cada modificação, com aprovação de um d
 - Frutas
 - Legumes
 - Sorvete
+- Abacate
+- Melancia
+- Morango do Amor
 - Bolo
