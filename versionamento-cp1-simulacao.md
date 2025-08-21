@@ -10,3 +10,4 @@ Deve ser aberto um Pull Request para cada modificação, com aprovação de um d
 - Sorvete
 - Abacate
 - Melancia
+- Morango do Amor
